@@ -1,0 +1,22 @@
+header{
+ background-color: rgb(120, 133, 202);
+ padding: 20px;
+ text-align: center;
+}
+body{
+    text-align: center;
+}
+img{
+    border-radius:50px;
+}
+#portfolio{
+    background-color: rgba(125, 175, 0, 0.289);
+}
+footer{
+    background-color: rgba(15, 5, 5, 0.417);
+    padding: 20px;
+}
+.nav1{
+    text-decoration: none;
+    padding-right: 20px;
+}
